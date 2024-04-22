@@ -4,3 +4,4 @@ CREATE TABLE app_user (
   password VARCHAR(255) NOT NULL,
   PRIMARY KEY (user_id)
 );
+
